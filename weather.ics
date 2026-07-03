@@ -6,35 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:기상청 날씨
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-SUMMARY:☁️ 22°C/24°C
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-DTSTAMP:20260703T104841Z
-UID:20260703@short_summary
-DESCRIPTION:📍 포레나순천 날씨 (위경도 34.999\, 127.510)\n\n
- ☁️ 지금 날씨: 흐림\n기온: 24°C (☀️ 따뜻해요)\n최고 
- 온도: 24°C / 최저 온도: 22°C\n습도: 85%\n바람: 1 m/s (실바
- 람 — 연기가 천천히 흐름) (남동쪽에서) \n오늘은 🌂 우
- 산 챙기는 게 안전해요 (비올 확률 30%)\n다음 비🌧 : 7월 
- 4일 오전 3시경 비\n\n🙂 오늘 공기는 보통이에요\n미세
- 먼지 (PM10): 25.7 ㎍/㎥ (🟢 좋음)\n초미세먼지 (PM2.5): 17.4 
- ㎍/㎥ (🟡 보통)\n오존(O₃): 0.1 ppm (🟠 나쁨)\n\n☁️ 내
- 일은?\n최고 27°C (☀️ 따뜻해요) / 최저 21°C (😊 쾌적해
- 요)\n오전: 🌧️ 비 / 오후: 🌧️ 비\n\n☀️ 오늘 해는?\n
- 🌅 일출: 오늘 05:20\n🌇 일몰: 오늘 19:47\n🌆 시민박명: 
- 오늘 04:50 ~ 오늘 20:17\n🌃 천문박명: 오늘 03:34 ~ 오늘 21:3
- 3\n\n🌖 달은?\n위상: 하현전 기우는달 (조도 89%)\n🌒 월
- 출: 오늘 22:02\n🌘 월몰: 내일 09:00\n\n🌌 은하수 추적\n
- 🔭 지금 상황: 관측불가 — 아직 충분히 어둡지 않음 (
- 고도 7.3°)\n달 고도: -27.2°\n⏰ 오늘 밤 관측 가능 시간대
- : 오늘 21:33 ~ 내일 03:34\n\n⏱ 시간별 상세\n[20시] ☁️ 흐
- 림 24°C (💧85% 🚩1m/s)\n[21시] ☁️ 흐림 22°C (💧90% 🚩0.1
- m/s)\n[22시] ☁️ 흐림 22°C (💧90% 🚩1m/s)\n[23시] ☁️ 흐
- 림 22°C (💧95% 🚩0.1m/s)\n\n📊 최종 업데이트: 2026-07-03 19:
- 48:41 (KST)
-LOCATION:포레나순천
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:☁️ 21°C/27°C
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
@@ -128,60 +99,60 @@ BEGIN:VEVENT
 SUMMARY:☁️ 23/29°C
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260708@mid
 DESCRIPTION:[오전] ☁️ 흐림 (☔40%)\n[오후] ☁️ 흐림 (☔40
- %)\n\n최종 업데이트: 2026-07-03 19:48:41 (KST)
+ %)\n\n최종 업데이트: 2026-07-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛅ 23/29°C
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260709@mid
 DESCRIPTION:[오전] ⛅ 구름많음 (☔30%)\n[오후] ⛅ 구름많음 
- (☔30%)\n\n최종 업데이트: 2026-07-03 19:48:41 (KST)
+ (☔30%)\n\n최종 업데이트: 2026-07-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛅ 23/29°C
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260710@mid
 DESCRIPTION:[오전] ⛅ 구름많음 (☔30%)\n[오후] ⛅ 구름많음 
- (☔30%)\n\n최종 업데이트: 2026-07-03 19:48:41 (KST)
+ (☔30%)\n\n최종 업데이트: 2026-07-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛅ 22/30°C
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260711@mid
 DESCRIPTION:[종일] ⛅ 구름많음 (☔30%)\n\n최종 업데이트: 202
- 6-07-03 19:48:41 (KST)
+ 6-07-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☁️ 23/30°C
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260712@mid
 DESCRIPTION:[종일] ☁️ 흐림 (☔30%)\n\n최종 업데이트: 2026-0
- 7-03 19:48:41 (KST)
+ 7-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☁️ 23/30°C
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-DTSTAMP:20260703T104841Z
+DTSTAMP:20260703T155956Z
 UID:20260713@mid
 DESCRIPTION:[종일] ☁️ 흐림 (☔30%)\n\n최종 업데이트: 2026-0
- 7-03 19:48:41 (KST)
+ 7-04 00:59:56 (KST)
 LOCATION:포레나순천
 END:VEVENT
 END:VCALENDAR
